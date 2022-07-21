@@ -1,0 +1,93 @@
+.fundoMenu{
+		background: #FFBF00;
+		font-family: "Trebuchet MS", Helvetica, sans-serif;
+		padding: 18px;
+		position: absolute;
+		margin: 0px;
+		top: 0;
+		left: 0;
+		color: white;
+		width: 100%;
+
+
+	}
+
+.palavras{
+	padding: 18px;
+	text-align: center;
+	font-size: 20px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+
+}
+
+.clear{
+	clear: both;
+}
+
+.postagem{
+	background: #FFFFFF;
+	width: 650px;
+	padding: 5px;
+	margin: 15px ;
+	position: relative;
+	top: -390px;
+	left: 200px;
+}
+
+#fundoimagem{
+	background-position: center top;
+}
+
+#caixaflutuante{
+	background: #FAFAFA;
+	width: 265px;
+	padding: 5px;
+	margin: 25px;
+	position: relative;
+	top: 155px;
+	left: 900px;
+}
+
+#titulo{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+#direitos{
+	background: #BDBDBD;
+	width: 1000px;
+	padding: 5px;
+	margin: 10px ;
+	position: relative;
+	top: -360px;
+	left: 200px;
+	text-align: center;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+body{
+	background: #E6E6E6;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 1em;
+}
+
+/*Formatação dos links-INÍCIO */
+a:link{
+	color: white;
+	text-decoration: none;
+}
+
+a:visited{
+	color: white;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #f7b600;
+	background: #FFFFFF;
+	padding: 8px;
+}
+
+a:active{
+
+}
+/*Formatação dos links-FIM */
